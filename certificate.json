@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/atharva-pb/Custom-Issuer-Certificate/main/certificate.jsonld",
-      "jsonSchema": "https://raw.githubusercontent.com/atharva-pb/Custom-Issuer-Certificate/main/certificate.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/atharva-pb/Custom-Issuer-Certificate-Single-Param/main/certificateSingle.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/atharva-pb/Custom-Issuer-Certificate-Single-Param/main/certificateSingle.json"
     }
   },
   "required": [
