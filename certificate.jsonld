@@ -5,7 +5,7 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "certificate": {
+        "certificateSingle": {
           "@id": "https://github.com/atharva-pb/Custom-Issuer-Certificate/blob/main/vocab.md#",
           "@context": {
             "@version": 1.1,
