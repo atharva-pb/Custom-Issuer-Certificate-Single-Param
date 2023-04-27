@@ -1,0 +1,25 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "certificate": {
+          "@id": "https://github.com/atharva-pb/Custom-Issuer-Certificate/blob/main/vocab.md#",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "https://raw.githubusercontent.com/atharva-pb/Custom-Issuer-Certificate/main/vocab.md#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "age": {
+                "@id": "vocab:age",
+                "@type": "xsd:integer"
+            }
+          }
+        }
+      }
+    ]
+  }
